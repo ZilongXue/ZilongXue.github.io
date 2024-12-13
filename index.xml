@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zilong's Blog</title><link>https://zilongxue.github.io/</link><description>Recent content on Zilong's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://zilongxue.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://zilongxue.github.io/p/hello-world/</link><pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate><guid>https://zilongxue.github.io/p/hello-world/</guid><description>&lt;img src="https://zilongxue.github.io/p/hello-world/cover.jpg" alt="Featured image of post About Me" />&lt;h1 id="hello-im-zilong-xue-">Hello, I&amp;rsquo;m Zilong Xue 👋
+&lt;/h1>&lt;p>Welcome to my blog! 🎉 I am currently pursuing a Master of Computer Science (MCS) degree at Rice University 🎓. My journey in tech has been a mix of academic exploration 📚, open-source contributions 💻, and professional experience 🌟.&lt;/p>
+&lt;h2 id="a-bit-about-me">A bit about me:
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Education&lt;/strong>: Rice University, MCS 🎓&lt;/li>
+&lt;li>&lt;strong>GitHub&lt;/strong>: &lt;a class="link" href="https://github.com/ZilongXue" target="_blank" rel="noopener"
+>github.com/ZilongXue&lt;/a> 🐙&lt;/li>
+&lt;li>&lt;strong>LinkedIn&lt;/strong>: &lt;a class="link" href="https://www.linkedin.com/in/zilong-xue/" target="_blank" rel="noopener"
+>linkedin.com/in/zilong-xue/&lt;/a> 🤝 (Feel free to connect!)&lt;/li>
+&lt;li>&lt;strong>Professional Experience&lt;/strong>: Incoming 2025 Summer Intern at TikTok 🎥✨&lt;/li>
+&lt;li>&lt;strong>Open-Source Contributions&lt;/strong>: Contributor to &lt;a class="link" href="https://github.com/bitwarden" target="_blank" rel="noopener"
+>Bitwarden&lt;/a> 🔐, a popular open-source password management project.&lt;/li>
+&lt;li>&lt;strong>Interests&lt;/strong>: Great interest in LLMs and LLM agents 🌟🤖.&lt;/li>
+&lt;/ul>
+&lt;p>This blog is my space to share insights 🌐, projects 🛠️, and thoughts 💡 on software development, LLMs 🤖, and my journey as a computer science graduate student. I look forward to connecting with like-minded individuals and exchanging ideas 🗨️.&lt;/p>
+&lt;p>Thanks for stopping by! 🙌&lt;/p></description></item><item><title>Archives</title><link>https://zilongxue.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://zilongxue.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://zilongxue.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zilongxue.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://zilongxue.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://zilongxue.github.io/search/</guid><description/></item></channel></rss>
